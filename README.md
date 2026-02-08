@@ -1,4 +1,4 @@
-# 🌌 Callisto AI – End-to-End Answering Chatbot
+# Callisto AI – End-to-End Answering Chatbot
 
 **Callisto AI** is a sophisticated full-stack conversational platform designed to provide seamless, real-time question-answering. Built with a modern dark-themed UI, it features secure user authentication and persistent conversation management, making it a robust foundation for AI-driven assistant systems.
 
