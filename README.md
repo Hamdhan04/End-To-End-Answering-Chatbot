@@ -6,11 +6,11 @@
 
 ##  Features
 
-* ** Intelligent Responses:** Leverages LLM capabilities to provide detailed, context-aware answers.
-* ** Secure Authentication:** Full login and registration flow to protect user data and personalize experiences.
-* ** Dynamic Chat Interface:** A responsive, real-time messaging UI with a focus on readability and user flow.
-* ** Conversation Persistence:** Sidebar integration to save, view, and manage multiple chat histories.
-* ** Premium UI/UX:** A sleek, modern dark-mode aesthetic built for long-form reading and interaction.
+* Intelligent Responses: Leverages LLM capabilities to provide detailed, context-aware answers.
+* Secure Authentication: Full login and registration flow to protect user data and personalize experiences.
+* Dynamic Chat Interface: A responsive, real-time messaging UI with a focus on readability and user flow.
+* Conversation Persistence: Sidebar integration to save, view, and manage multiple chat histories.
+* Premium UI/UX: A sleek, modern dark-mode aesthetic built for long-form reading and interaction.
 
 ---
 
